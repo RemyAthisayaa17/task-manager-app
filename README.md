@@ -1,7 +1,7 @@
 # ✅ Task Manager App
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Task+Manager+App" alt="Task Manager Cover" width="100%" />
+  <img src="https://github.com/RemyAthisayaa17/task-manager-app/blob/master/vite-project/cover.png.png?raw=true" alt="Task Manager Cover" width="100%" />
 </p>
 
 ## 📌 About the Project
